@@ -7,7 +7,6 @@ A software engineer who's passionate about using technologies as a creative tool
 to improve the human experience; a veteran project manager with a keen UX understanding, strong
 communicative and collaborative focus, and 7 years of experience delivering quality website projects.
 ```
-
 ### 👀 I’m interested in
 - ❇️ front-end development
 - 🔍 e2e testing
