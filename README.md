@@ -21,7 +21,7 @@ communicative and collaborative focus, and 7 years of experience delivering qual
 ### 📫 How to reach me
 | Link | Side note |
 | ----------- | ----------- |
-| https://www.linkedin.com/in/felicity-xueying-wu/ | LinkedIn! Since that's how everyone socializes these days right? |
+| https://www.linkedin.com/in/felicity-xueying-wu/ | LinkedIn!|
 | https://felicityandherdragon.com/ | My hobby blog - mostly written in Chinese ໒(⊙ᴗ⊙)७✎▤ |
 
 
