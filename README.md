@@ -4,7 +4,6 @@
 ### 🕵️‍♀️ About me
 ```
 👏🏻𝚔𝚎𝚎𝚙👏🏻 👏🏻𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐👏🏻
-Demure grandma to be
 ```
 ### 👀 I’m interested in
 - ❇️ front-end development
