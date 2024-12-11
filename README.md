@@ -1,15 +1,11 @@
 
 👋 Hi, I’m **Felicity** (*alias: @felicityandherdragon*)
 
-### 🕵️‍♀️ About me
-```
-👏🏻𝚔𝚎𝚎𝚙👏🏻 👏🏻𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐👏🏻
-```
 ### 👀 I’m interested in
 - ❇️ front-end development
-- 🔍 e2e testing
 - 🖌️ Making pretty things
 - 📖 manga / 📺 anime
+- Learning stuff
 
 ### 📫 How to reach me
 | Link | Side note |
